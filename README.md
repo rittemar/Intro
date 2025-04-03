@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm brand new to GitHub and excited to begin my co
 
 ## About Me
 
-* **Currently Learning:**: Python, SQL
-* **Interests:**: I love problem solving
+* **Currently Learning:** Python, SQL
+* **Interests:** I love problem solving
 
 ## Projects
 
-* **Recipe Selector:**: CLI-Based Python App that helps users generate a grocery list based on selected recipes for the week and home inventory
+* **Recipe Selector:** CLI-Based Python App that helps users generate a grocery list based on selected recipes for the week and home inventory
